@@ -1,0 +1,6 @@
+.complete {
+    text-decoration: solid;
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+    opacity: 0.6;
+}
